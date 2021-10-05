@@ -1,0 +1,6 @@
+xcassets:
+  - inputs: monshaatTask/Resources/
+    outputs:
+      - templateName: swift5
+        output: monshaatTask/Resources/Assets.swift
+
